@@ -1,4 +1,4 @@
-# introduction-to-git-hub-basics
+# github-basics
 
 IIntroduction to git
 
