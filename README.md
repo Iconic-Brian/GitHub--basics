@@ -1,6 +1,6 @@
 # github-basics
 
-IIntroduction to git
+Introduction to git
 
 ## Git states
 
