@@ -9,7 +9,7 @@ Tracked state
 Modified State
 
 '''bash
-   git add <filename>
+    git add <filename>
 '''
 
 staged state 
